@@ -2,4 +2,4 @@ pillow
 PyQt6
 qt6-applications
 qt6-tools
-pytests
+pytest
